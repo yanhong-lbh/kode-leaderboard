@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kode-leaderboard/static/css/main.e6c13ad2.css",
-    "main.js": "/kode-leaderboard/static/js/main.9736fd4b.js",
+    "main.js": "/kode-leaderboard/static/js/main.6e12009b.js",
     "static/js/453.d44a64c6.chunk.js": "/kode-leaderboard/static/js/453.d44a64c6.chunk.js",
     "index.html": "/kode-leaderboard/index.html",
     "main.e6c13ad2.css.map": "/kode-leaderboard/static/css/main.e6c13ad2.css.map",
-    "main.9736fd4b.js.map": "/kode-leaderboard/static/js/main.9736fd4b.js.map",
+    "main.6e12009b.js.map": "/kode-leaderboard/static/js/main.6e12009b.js.map",
     "453.d44a64c6.chunk.js.map": "/kode-leaderboard/static/js/453.d44a64c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9736fd4b.js"
+    "static/js/main.6e12009b.js"
   ]
 }
