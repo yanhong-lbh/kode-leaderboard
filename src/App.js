@@ -1,6 +1,7 @@
 import React from "react";
 import LeaderboardTable from "./components/LeaderboardTable";
 import NewsArchive from "./components/NewsArchive";
+import './App.css';
 
 function App() {
   return (
