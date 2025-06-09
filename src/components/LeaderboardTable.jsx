@@ -4,7 +4,7 @@ export default function LeaderboardTable() {
   const [rows, setRows] = useState([]);
 
   useEffect(() => {
-    fetch(process.env.PUBLIC_URL + "/leaderboard/results_2025-06-08.json")
+    fetch(process.env.PUBLIC_URL + "/leaderboard/results_2025-03-22.json")
       .then((res) => res.json())
       .then((data) => setRows(data));
   }, []);
