@@ -17,9 +17,7 @@ function App() {
       <NewsArchive />
       <hr />
       <p>
-        All news snapshots from <b>2025-03-01</b> onward are downloadable above.
-        <br />
-        No author info is stored. Results and news are double-blind.
+        All news snapshots from <b>2025-04-10</b> onward are downloadable above.
       </p>
     </div>
   );
