@@ -1,7 +1,7 @@
 {
   "name": "kode-leaderboard",
   "version": "0.1.0",
-  "homepage": "https://yanhong-lbh.github.io/kode-leaderboard",
+  "homepage": "https://kode-benchmark.github.io/kode-leaderboard/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
