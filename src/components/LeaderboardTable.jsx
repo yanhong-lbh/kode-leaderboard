@@ -11,7 +11,7 @@ export default function LeaderboardTable() {
 
   return (
     <div>
-      <h2>Leaderboard (2025-06-08)</h2>
+      <h2>Leaderboard (2025-03-22)</h2>
       <table border="1" cellPadding={6} style={{ width: "100%", margin: "1em 0" }}>
         <thead>
           <tr>

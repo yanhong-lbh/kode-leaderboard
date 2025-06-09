@@ -12,7 +12,7 @@ export default function NewsArchive() {
       <ul>
         {newsDates.map(date => (
           <li key={date}>
-            <a href={`/news_snapshots/news_${date}.json`} download>
+            <a href={process.env.PUBLIC_URL + `/news_snapshots/news_${date}.json`} download>
               {date}
             </a>
           </li>
