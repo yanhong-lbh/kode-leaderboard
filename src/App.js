@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import LeaderboardTable from "./components/LeaderboardTable";
+import NewsArchive from "./components/NewsArchive";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ maxWidth: 800, margin: "0 auto", padding: 20 }}>
+      <h1>KODE • Knowledge On-Demand Evaluation</h1>
+      <p>
+        <em>
+          Public leaderboard and dynamic news archive for LLM benchmarking.
+        </em>
+      </p>
+      <LeaderboardTable />
+      <hr />
+      <NewsArchive />
+      <hr />
+      <p>
+        All news snapshots from <b>2025-03-01</b> onward are downloadable above.
+        <br />
+        No author info is stored. Results and news are double-blind.
+      </p>
     </div>
   );
 }
