@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div style={{ maxWidth: 800, margin: "0 auto", padding: 20 }}>
-      <h1>KODE • Knowledge On-Demand Evaluation</h1>
+      <h1>OKBench • **O**pen-**K**nowledge**Bench**</h1>
       <p>
         <em>
           Public leaderboard and dynamic news archive for LLM benchmarking.
