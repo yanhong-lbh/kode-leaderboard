@@ -19,8 +19,8 @@ function App() {
       <p>
         All news snapshots from <b>2025-04-10</b> onward are downloadable above.<br/>
         These could be directly used to generate datasets, where code is provided in&nbsp;
-        <a href="https://anonymous.4open.science/r/kode-DDFE" target="_blank" rel="noopener noreferrer">
-          https://anonymous.4open.science/r/kode-DDFE
+        <a href="https://anonymous.4open.science/r/OKBench-0830" target="_blank" rel="noopener noreferrer">
+          https://anonymous.4open.science/r/OKBench-0830
         </a>.
       </p>
     </div>
